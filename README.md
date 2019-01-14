@@ -1,5 +1,5 @@
 # DATA-STRUCTURE
-I'll code on datastructures here.   
+Logs for Learning DS
 
 ## References
 - [HackerRank data-structures](https://www.hackerrank.com/domains/data-structures/)   
